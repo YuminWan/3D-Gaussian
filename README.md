@@ -365,7 +365,7 @@ arXiv preprint, 18 Dec 2023<br>
 [Project](https://nvlabs.github.io/GAvatar/)
  
 **Deformable 3D Gaussian Splatting for Animatable Human Avatars**<br>
-**Hyunjun Jung, Nikolas Brasch, Jifei Song, Eduardo Pérez-Pellitero, Yiren Zhou, Zhihao Li, N. Navab, Benjamin Busam*<br>
+*Hyunjun Jung, Nikolas Brasch, Jifei Song, Eduardo Pérez-Pellitero, Yiren Zhou, Zhihao Li, N. Navab, Benjamin Busam*<br>
 arXiv preprint, 22 Dec 2023<br>
 [arXiv](https://arxiv.org/abs/2312.15059)
 [Project](https://github.com/Junggy/pardy-human)(invalid)
