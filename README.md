@@ -42,6 +42,12 @@ arXiv preprint, 28 Nov 2023<br>
 arXiv preprint, 30 Nov 2023<br>
 [arXiv](https://arxiv.org/abs/2312.00109)
 [Project](https://city-super.github.io/scaffold-gs/)
+
+**Deblurring 3D Gaussian Splatting**<br>
+*Byeonghyeon Lee, Howoong Lee, Xiangyu Sun, Usman Ali, Eunbyung Park*<br>
+arXiv preprint, 1 Jan 2024<br>
+[arXiv](https://arxiv.org/abs/2401.00834)
+[Project](https://benhenryl.github.io/Deblurring-3D-Gaussian-Splatting/)
  
 ## 3DGS Based Mesh Extraction
 **SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**<br>
@@ -457,6 +463,11 @@ arXiv preprint, 26 Dec 2023<br>
 arXiv preprint, 26 Dec 2023<br>
 [arXiv](https://arxiv.org/abs/2312.16084)
 [Project](https://langsplat.github.io/)
+
+**FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding**<br>
+*Xingxing Zuo, Pouya Samangouei, Yunwen Zhou, Yan Di, Mingyang Li*<br>
+arXiv preprint, 3 Jan 2024<br>
+[arXiv](https://arxiv.org/abs/2401.01970)
   
 ## 3DGS Based SLAM
 **GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**<br>
