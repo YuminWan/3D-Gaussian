@@ -22,7 +22,6 @@
 **3D Gaussian Splatting for Real-Time Radiance Field Rendering**<br>
 *Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis*<br>
 ACM ToG 2023, 8 August, 2023<br>
-
 [Project](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 [Github](https://github.com/graphdeco-inria/gaussian-splatting)
 
