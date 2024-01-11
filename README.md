@@ -3,6 +3,7 @@
 
 ## Content
 - [3DGS Original Paper](#3dgs-original-paper)
+- [3DGS Summary](#3dgs-summary)
 - [3DGS Quality Enhancement](#3dgs-quality-enhancement)
 - [3DGS Based Mesh Extraction](#3dgs-based-mesh-extraction)
 - [3DGS Based Dynamic Scene](#3dgs-based-dynamic-scene)
@@ -21,9 +22,16 @@
 **3D Gaussian Splatting for Real-Time Radiance Field Rendering**<br>
 *Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis*<br>
 ACM ToG 2023, 8 August, 2023<br>
-[arXiv](https://arxiv.org/abs/2308.04079)
+
 [Project](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 [Github](https://github.com/graphdeco-inria/gaussian-splatting)
+
+## 3DGS Summary
+
+**A Survey on 3D Gaussian Splatting**<br>
+*Guikun Chen, Wenguan Wang*<br>
+arXiv preprint, 8 Jan, 2024<br>
+[arXiv](https://arxiv.org/abs/2401.03890)
 
 ## 3DGS Quality Enhancement
 **Mip-Splatting: Alias-free 3D Gaussian Splatting**<br>
@@ -131,6 +139,12 @@ arXiv preprint, 20 Dec 2023<br>
 arXiv preprint, 28 Dec 2023<br>
 [arXiv](https://arxiv.org/abs/2312.13308)
 [Project](https://oppo-us-research.github.io/SpacetimeGaussians-website/)
+
+**DreamGaussian4D: Generative 4D Gaussian Splatting**<br>
+*Jiawei Ren, Liang Pan, Jiaxiang Tang, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu*<br>
+arXiv preprint, 28 Dec 2023<br>
+[arXiv](https://arxiv.org/abs/2312.17142)
+[Project](https://jiawei-ren.github.io/projects/dreamgaussian4d/)
 
 ## 3DGS Few-shot Reconstruction
 **Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**<br>
