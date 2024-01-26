@@ -55,6 +55,11 @@ arXiv preprint, 30 Nov 2023<br>
 arXiv preprint, 1 Jan 2024<br>
 [arXiv](https://arxiv.org/abs/2401.00834)
 [Project](https://benhenryl.github.io/Deblurring-3D-Gaussian-Splatting/)
+
+**Characterizing Satellite Geometry via Accelerated 3D Gaussian Splatting**<br>
+*Van Minh Nguyen, Emma Sandidge, Trupti Mahendrakar, Ryan T. White*<br>
+arXiv preprint, 5 Jan 2024<br>
+[arXiv](https://arxiv.org/abs/2401.02588)
  
 ## 3DGS Based Mesh Extraction
 **SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**<br>
@@ -382,7 +387,17 @@ arXiv preprint, 18 Dec 2023<br>
 arXiv preprint, 22 Dec 2023<br>
 [arXiv](https://arxiv.org/abs/2312.15059)
 [Project](https://github.com/Junggy/pardy-human)(invalid)
- 
+
+**GaussianBody: Clothed Human Reconstruction via 3d Gaussian Splatting**<br>
+*Mengtian Li, Shengxiang Yao, Zhifeng Xie, Keyu Chen, Yu-Gang Jiang*<br>
+arXiv preprint, 18 Jan 2024<br>
+[arXiv](https://arxiv.org/abs/2401.09720)
+
+**PSAvatar: A Point-based Morphable Shape Model for Real-Time Head Avatar Creation with 3D Gaussian Splatting**<br>
+*Zhongyuan Zhao, Zhenyu Bao, Qing Li, Guoping Qiu, Kanglin Liu*<br>
+arXiv preprint, 23 Jan 2024<br>
+[arXiv](https://arxiv.org/abs/2401.12900)
+
 ## 3DGS Scene Editing and Animation
 **Animatable 3D Gaussians for High-fidelity Synthesis of Human Motion**<br>
 *Keyang Ye, Tianjia Shao, Kun Zhou*<br>
